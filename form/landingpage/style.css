@@ -1,0 +1,83 @@
+h1{
+    margin: 1em auto;
+    text-align: center;}
+.p1{margin-top:-1.3em;
+    text-align: center;}
+
+.form1,textarea{margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;}
+    form {
+        width: 60vw;
+        max-width: 500px;
+        min-width: 300px;
+        margin: 0 auto;
+        padding-bottom: 2em;
+      }
+      label {
+        display: block;
+        margin: 0.5rem 0;
+      }
+      input, textarea {
+        border: 1px solid rgb(66, 68, 66) ;
+      }
+      input[type="submit"] {
+        display: block;
+        width: 60%;
+        margin: 1em auto;
+        height: 2em;
+        font-size: 1.1rem;
+        background-color: #188a4b;
+        border-color: white;
+        min-width: 300px;
+        border: none;
+      }
+.comments{margin-bottom: 1px;
+        margin-top: 5px;
+        padding-top: 1em;font-size: 1.1rem;}
+.feature-keldan{padding-top: 0.4em;
+    padding-bottom: 0.3em;
+    margin-top: 1em;
+    font-size: 1.2rem;
+    font-style: bold;}
+.form2{font-size: 1.2rem;
+    padding-top: 0.3em;
+    padding-bottom: 1px;
+    font-style: bold;
+    margin-bottom: 0.1em;
+}
+.background{
+    width: 80%;
+    background-color: rgba(34,55, 160, 0.9);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    max-width: 500px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 5px;
+}
+.text-content{margin-top: -0.5em;
+    margin-bottom: 2em;
+}
+input[type="checkbox"]{zoom: 110%;}
+.form-group3 {zoom: 120%;}
+input[type="radio"]{zoom: 120%;}
+.form-group2 {zoom: 100%;}
+body{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGV8nuYhQbdDNw8mpGDElmcPzi5IrTSl701w&usqp=CAU);
+    width: 100%;
+    height: 230vh;
+    padding-top: 0%;
+    margin-top: 5em;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.background2{background-color: rgba(34, 100, 180, 0.7);
+    width: 100%;
+    height: 230vh;
+    padding-top: 5.3em;
+    margin-top: -5em;
+    padding-left: 20px;
+}
+textarea{zoom: 120%;}
